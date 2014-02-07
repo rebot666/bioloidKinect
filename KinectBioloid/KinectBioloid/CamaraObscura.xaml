@@ -1,0 +1,8 @@
+﻿<Window x:Class="KinectBioloid.CamaraObscura"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CamaraObscura" Height="350" Width="350">
+    <DockPanel Height="300" >
+        <Image Name="image1" Width="320" Grid.ColumnSpan="2" />
+    </DockPanel>
+</Window>

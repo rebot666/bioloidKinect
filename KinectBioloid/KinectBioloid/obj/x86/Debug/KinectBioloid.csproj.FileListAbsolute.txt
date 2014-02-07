@@ -1,0 +1,60 @@
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.g.cs
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\App.g.cs
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid_MarkupCompile.cache
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.exe
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.pdb
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.baml
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.g.resources
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.Properties.Resources.resources
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.exe
+c:\users\black4ninja\documents\visual studio 2010\Projects\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.baml
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\App.g.cs
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid_MarkupCompile.cache
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.g.resources
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.Properties.Resources.resources
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\Simulador.baml
+C:\Users\black4ninja\Desktop\KinectBioloid\KinectBioloid\obj\x86\Debug\Simulador.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\bin\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\App.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid_MarkupCompile.cache
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.g.resources
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.Properties.Resources.resources
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.csproj.GenerateResource.Cache
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\KinectBioloid.csprojResolveAssemblyReference.cache
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\CamaraObscura.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\CamaraObscura.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\CamaraNormal.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid\KinectBioloid\obj\x86\Debug\CamaraNormal.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\bin\Debug\KinectBioloid.exe
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\bin\Debug\KinectBioloid.pdb
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.csprojResolveAssemblyReference.cache
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\CamaraObscura.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\MainWindow.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\CamaraNormal.baml
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\CamaraObscura.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\CamaraNormal.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\App.g.cs
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid_MarkupCompile.cache
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.g.resources
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.Properties.Resources.resources
+C:\Users\black4ninja\Desktop\Invesitgacion Bioloid\KinectBioloid 2\KinectBioloid\obj\x86\Debug\KinectBioloid.csproj.GenerateResource.Cache
